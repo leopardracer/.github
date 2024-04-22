@@ -1,4 +1,8 @@
-# Shardeum is the EVM based autoscaling blockchain
+<p align="center"> <img src="shardeum-white-bg.png" alt="Shardeum Logo" width="70%"> </p>
+
+<p align="center">
+<b>Shardeum is the EVM based autoscaling blockchain</b>
+</p>
 
 Welcome to the Layer 1 blockchain where the community runs the nodes, and auto-scalability means exponential growth.
 
