@@ -1,4 +1,4 @@
-<p align="center"> <img src="shardeum-white-bg.png" alt="Shardeum Logo" width="70%"> </p>
+<p align="center"> <img src="https://github.com/shardeum/.github/raw/dev/shardeum-white-bg.png" alt="Shardeum Logo" width="70%"> </p>
 
 <p align="center">
 <b>Shardeum is the EVM based autoscaling blockchain</b>
