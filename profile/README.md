@@ -18,13 +18,3 @@ From our combined proof-of-stake and proof-of-quorum approach to consensus, to o
 
 ## Decentralization
 Shardeum is permissionless and built for the community to run nodes that increase TPS (Transactions Per Second), and participate regardless of their locations and backgrounds.
-
-## Community
-
-For help, discussion about code, or any other conversation that would benefit from being searchable:
-
-[Discuss Shardeum on GitHub](https://github.com/shardeum/shardeum/discussions)
-
-For chatting with others using Shardeum:
-
-[Join the Shardeum Discord Server](https://discord.com/invite/shardeum)
